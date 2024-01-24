@@ -1,15 +1,4 @@
 # Bootstrap starter
 
-Include [Bootstrap](https://getbootstrap.com) CSS and JS via the [jsDelivr CDN](https://www.jsdelivr.com/package/npm/bootstrap).
-
-## Edit in browser
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/twbs/examples/tree/main/starter?file=index.html)
-
-## Download
-
-```sh
-git clone https://github.com/twbs/examples.git
-cd examples/starter/
-open index.html
-```
+example code snippets from https://getbootstrap.com/docs/5.3/examples/
+![image](https://github.com/pvnschool/landing-pages/assets/127175800/2e6b1aef-fd8e-402f-8e74-d3f0d34bfe12)
