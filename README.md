@@ -7,6 +7,11 @@ example code snippets from https://getbootstrap.com/docs/5.3/examples/
 - https://www.peoples-progress-trust.org/
 - https://www.pragathividyaniketan.com/
 
+# online tools
+#### pvnschoolcolab@gmail.com
+https://chat.openai.com/
+![chatGPT example](./assets/images/chatGPTexample.png)
+
 # Online tutorials
 - Tables https://www.w3schools.com/html/html_tables.asp
 - Lists https://www.w3schools.com/html/html_lists.asp
@@ -28,3 +33,5 @@ Products:
 - skin moisturizer
 - Hair oil
 - cooking oil
+
+
