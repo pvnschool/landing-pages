@@ -8,7 +8,7 @@ example code snippets from https://getbootstrap.com/docs/5.3/examples/
 - https://www.pragathividyaniketan.com/
 
 # online tools
-pvnschoolcolab@gmail.com
+#### pvnschoolcolab@gmail.com
 https://chat.openai.com/
 ![chatGPT example](./assets/images/chatGPTexample.png)
 
